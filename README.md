@@ -17,16 +17,23 @@ Formulários de login, cadastro e recuperação de senha escritos com ReactJs e 
 
 ## Instalação
 No terminal clone o projeto:
+```
 $ git clone https://github.com/zapsys/loginForm-reactjs-bootstrap
+```
 
 Entre na pasta do projeto:
+```
 $ cd loginform-reactjs-bootstrap
+```
 
 Instale as dependências:
+```
 $ npm install | $ yarn install
-
+```
 Execute a aplicação:
+```
 $ npm start | $ yarn start
+```
 
 Pronto agora é possível acessar a aplicação na rota http://localhost:3000
 
