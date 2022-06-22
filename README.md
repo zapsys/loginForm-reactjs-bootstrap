@@ -23,7 +23,7 @@ $ git clone https://github.com/zapsys/loginForm-reactjs-bootstrap
 
 Entre na pasta do projeto:
 ```
-$ cd loginform-reactjs-bootstrap
+$ cd loginForm-reactjs-bootstrap
 ```
 
 Instale as dependências:
