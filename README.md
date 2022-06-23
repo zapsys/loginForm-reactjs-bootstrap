@@ -3,12 +3,12 @@ Formulários de login, cadastro e recuperação de senha escritos com ReactJs e 
 
 ## Linguagens, dependências e libs utilizadas :books:
 
-- [React] (https://pt-br.reactjs.org/docs/getting-started.html): versão 18.2.0
-- [React-DOM] : versão 18.2.0
-- [React-Router-DOM] : versão 6.3.0
-- [React-Scripts] : versão 2.1.3
-- [Bootstrap] (https://getbootstrap.com/docs/5.0/getting-started/introduction/): versão 5.1.3
-- [npm] : versão 8.5.5
+- [React](https://pt-br.reactjs.org/docs/getting-started.html)
+- React-DOM
+- React-Router-DOM
+- React-Scripts
+- [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+- npm
 
 ## Pré-requisitos
 - git
