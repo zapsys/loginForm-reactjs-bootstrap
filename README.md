@@ -40,3 +40,8 @@ Pronto agora é possível acessar a aplicação na rota http://localhost:3000
 ## Dúvidas ou sugestões
 Caso tenha alguma dúvida ou sugestão sinta-se a vontade para nos contactar e contribuir
 
+## Licença
+The [MIT License]() (MIT)
+
+Copyright :copyright: 2022 - Zapsys
+
