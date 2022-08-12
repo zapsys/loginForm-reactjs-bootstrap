@@ -1,4 +1,4 @@
-# Exemplo de Form de Login com React e Bootstrap
+# Form de Login com React e Bootstrap 5
 Formulários de login, cadastro e recuperação de senha escritos com ReactJs e Bootstrap (backend não implementado)
 
 ## Linguagens, dependências e libs utilizadas :books:
@@ -18,7 +18,7 @@ Formulários de login, cadastro e recuperação de senha escritos com ReactJs e 
 ## Instalação
 No terminal clone o projeto:
 ```
-$ git clone https://github.com/zapsys/loginForm-reactjs-bootstrap
+$ git clone https://github.com/zapsys/loginForm-reactjs-bootstrap.git
 ```
 
 Entre na pasta do projeto:
@@ -41,7 +41,7 @@ Pronto agora é possível acessar a aplicação na rota http://localhost:3000
 Caso tenha alguma dúvida ou sugestão sinta-se a vontade para nos contactar e contribuir
 
 ## Licença
-The [MIT License]() (MIT)
+The [MIT License](LICENSE.md)
 
 Copyright :copyright: 2022 - Zapsys
 
